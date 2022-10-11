@@ -1,0 +1,16 @@
+h1{
+    color:red;
+    text-decoration: underline;
+    font-style: italic;
+}
+p{
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+
+}
+
+img{
+    border: 10px solid gray;
+    margin-right:20px ;
+    
+}
